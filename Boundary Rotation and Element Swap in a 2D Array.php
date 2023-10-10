@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boundary Rotation and Element Swap in a 2D Array</title>
+</head>
+<body>
+
 <?php
 
 
@@ -79,3 +89,7 @@ foreach ($outputArray as $row) {
 
 
 ?>
+
+    
+</body>
+</html>
