@@ -4,7 +4,7 @@ Write a function/code in PHP to get the following output for 6X6, 8X8  or any gi
 *Check the green highlighted area of input array and output array to know how it works
 <b>Try the 16X16</b>
 enter the missing 4 values in red boxes of the Output Array, 
-![image1](images/image1.jpeg)
+![image1](images/image1.png)
 Input Array (6x6)
 1	2	3	4	5	6
 7	8	9	10	11	12
