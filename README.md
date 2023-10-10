@@ -5,5 +5,5 @@ Write a function/code in PHP to get the following output for 6X6, 8X8  or any gi
 <b>Try the 16X16</b>
 enter the missing 4 values in red boxes of the Output Array, 
 
-![image1](https://github.com/hemantkumar980/Boundary-Rotation-and-Middle-Element-Swap-in-a-2D-Array/assets/77163839/ca930525-fed3-48f6-b868-b67333fb50b7)
+![image1](https://github.com/hemantkumar980/Boundary-Rotation-and-Middle-Element-Swap-in-a-2D-Array/images/image1.png)
 
